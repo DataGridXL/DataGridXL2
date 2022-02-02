@@ -18,32 +18,32 @@ DataGridXL is the new grid on the block™! Written in Javascript ES6, made in t
 
 ## Why DataGridXL?
 
-###1. Just like Excel & Google Sheets
+### 1. Just like Excel & Google Sheets
 Keyboard, mouse and touchscreen controls are familiar to your users.
 
-###2. Lightweight & Super Fast
+### 2. Lightweight & Super Fast
 No dependencies. Display thousands of rows & columns. No hiccups!
 
-###3. Programmer Friendly
+### 3. Programmer Friendly
 Dozens of demos, extensive docs, even an interactive API playground.
 
-###4. Built in the 2020s
+### 4. Built in the 2020s
 Backed by a store & state model, just like React. Modern and reliable.
 
-###5. Top Notch Support
+### 5. Top Notch Support
 Support is fast and includes live code examples.
 
-###6. Framework Compatible
+### 6. Framework Compatible
 React, Angular, Vue and the next big thing: DataGridXL is compatible.
 
 # See it in action:
 See how DataGridXL powers live Web Apps & Get Inspired!
 
-###1. [tableconvert.com](https://tableconvert.com)
+### 1. [tableconvert.com](https://tableconvert.com)
 
 Convert table data from any format to any format. E.g. JSON to Markdown or CSV to XML.
 
-###2. [editcsvonline.com](https://editcsvonline.com)
+### 2. [editcsvonline.com](https://editcsvonline.com)
 
 Edit CSV files online just like Google Sheets. No need to sign up!
 
@@ -59,7 +59,7 @@ Edit CSV files online just like Google Sheets. No need to sign up!
 Include `datagridxl.js` in your web page HTML file:
 
 ```
-<script src="https://code.datagridxl.com/datagridxl.js"></script>
+<script src="https://code.datagridxl.com/datagridxl2.js"></script>
 ```
 
 ## License
