@@ -47,19 +47,21 @@ Convert table data from any format to any format. E.g. JSON to Markdown or CSV t
 
 Edit CSV files online just like Google Sheets. No need to sign up!
 
-
-## Getting support
-
-
-
-**Important!** For questions regarding usage of this product, see [DataGridXL Support](https://datagridxl.com/support).
-
 ## Usage
 
 Include `datagridxl.js` in your web page HTML file:
 
 ```
 <script src="https://code.datagridxl.com/datagridxl2.js"></script>
+```
+
+Then, run this code inside your HTML/JS:
+
+```
+<div id="grid" style="height:400px;"></div>
+<script>
+var grid = new DataGridXL("grid");
+</script>
 ```
 
 ## License
