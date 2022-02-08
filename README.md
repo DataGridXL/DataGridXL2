@@ -1,5 +1,7 @@
 # DataGridXL 2
 
+![DataGridXL Logo](https://github.com/DataGridXL/DataGridXL2/blob/master/images/datagridxl-logo.png?raw=true)
+
 ## Excel-like Experience for Web Apps
 
 Built in JavaScript ES6. Made in the 2020s.
