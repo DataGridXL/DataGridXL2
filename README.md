@@ -1,22 +1,48 @@
-# DataGridXL 2
+<div align="center">
 
 ![DataGridXL Logo](https://github.com/DataGridXL/DataGridXL2/blob/master/images/datagridxl-logo.png?raw=true)
 
-## Excel-like Experience for Web Apps
+DataGridXL is the *new grid on the block™*! Written in Javascript ES6, made in the 2020s and built with performance & usability in mind.
+  
+---
 
-Built in JavaScript ES6. Made in the 2020s.
+</div>
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/icons/react-icon.svg" width="14" height="14"><br>
+      Works with React
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/icons/angular-icon.svg" width="14" height="14"><br>
+      Works with Angular
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/icons/vue-icon.svg" width="14" height="14"><br>
+      Works with Vue
+    </td>
+    <td align="center">
+✓<br> Works with JSON
+    </td>
+    <td align="center">
+✓<br> Works with CSV
+    </td>
+    <td align="center">
+✓<br> Works with SQL
+    </td>
+  </tr>
+</table>
+  
+</div>
+
+<div align="center">
 
 ![DataGridXL Screenshot](https://github.com/DataGridXL/DataGridXL2/blob/master/images/datagridxl2-javascript-spreadsheet.png?raw=true)
-
-* ✅ Works with JSON
-* ✅ Works with CSV
-* ✅ Works with SQL
-* ✅ Works with React
-* ✅ Works with Vue
-* ✅ Works with Angular
-
-# The *performant* data grid
-DataGridXL is the new grid on the block™! Written in Javascript ES6, made in the 2020s and built with performance & usability in mind.
+  
+</div>
 
 ## Why DataGridXL?
 
