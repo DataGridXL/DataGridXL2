@@ -77,7 +77,7 @@ Edit CSV files online just like Google Sheets. No need to sign up!
 
 ## Usage
 
-Include `datagridxl.js` in your web page HTML file:
+Include `datagridxl2.js` in your web page HTML file:
 
 ```
 <script src="https://code.datagridxl.com/datagridxl2.js"></script>
