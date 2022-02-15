@@ -79,13 +79,13 @@ Edit CSV files online just like Google Sheets. No need to sign up!
 
 Include `datagridxl2.js` in your web page HTML file:
 
-```
+```html
 <script src="https://code.datagridxl.com/datagridxl2.js"></script>
 ```
 
 Then, run this code inside your HTML/JS:
 
-```
+```html
 <div id="grid" style="height:400px;"></div>
 <script>
 var grid = new DataGridXL("grid");
