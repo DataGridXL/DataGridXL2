@@ -1,39 +1,83 @@
-# DataGridXL 2
+<div align="center">
 
-## Excel-like Experience for Web Apps
+![DataGridXL Logo](https://github.com/DataGridXL/DataGridXL2/blob/master/images/datagridxl-logo.png?raw=true)
 
-Built in JavaScript ES6. Made in the 2020s.
+DataGridXL is the *new grid on the block™*! Written in Javascript ES6, made in the 2020s and built with performance & usability in mind.
+  
+---
+
+</div>
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/icons/react-icon.svg" width="14" height="14"><br>
+      Works with React
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/icons/angular-icon.svg" width="14" height="14"><br>
+      Works with Angular
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/icons/vue-icon.svg" width="14" height="14"><br>
+      Works with Vue
+    </td>
+    <td align="center">
+✓<br> Works with JSON
+    </td>
+    <td align="center">
+✓<br> Works with CSV
+    </td>
+    <td align="center">
+✓<br> Works with SQL
+    </td>
+  </tr>
+</table>
+  
+</div>
+
+<div align="center">
 
 ![DataGridXL Screenshot](https://github.com/DataGridXL/DataGridXL2/blob/master/images/datagridxl2-javascript-spreadsheet.png?raw=true)
+  
+</div>
 
-* ✅ Works with JSON
-* ✅ Works with CSV
-* ✅ Works with SQL
-* ✅ Works with React
-* ✅ Works with Vue
-* ✅ Works with Angular
+## Usage
 
-# The *performant* data grid
-DataGridXL is the new grid on the block™! Written in Javascript ES6, made in the 2020s and built with performance & usability in mind.
+Include `datagridxl2.js` in your web page HTML file:
 
+```html
+<script src="https://code.datagridxl.com/datagridxl2.js"></script>
+```
+
+Then, run this code inside your HTML/JS:
+
+```html
+<div id="grid" style="height:400px;"></div>
+<script>
+var grid = new DataGridXL("grid");
+</script>
+```
 ## Why DataGridXL?
 
-### 1. Just like Excel & Google Sheets
+**1. Just like Excel & Google Sheets**
 Keyboard, mouse and touchscreen controls are familiar to your users.
 
-### 2. Lightweight & Super Fast
+**2. Lightweight & Super Fast**
 No dependencies. Display thousands of rows & columns. No hiccups!
 
-### 3. Programmer Friendly
+**3. Programmer Friendly**
 Dozens of demos, extensive docs, even an interactive API playground.
 
-### 4. Built in the 2020s
+**4. Built in the 2020s**
 Backed by a store & state model, just like React. Modern and reliable.
 
-### 5. Top Notch Support
+**5. Top Notch Support**
 Support is fast and includes live code examples.
 
-### 6. Framework Compatible
+**6. Framework Compatible**
 React, Angular, Vue and the next big thing: DataGridXL is compatible.
 
 # See it in action:
@@ -46,23 +90,6 @@ Convert table data from any format to any format. E.g. JSON to Markdown or CSV t
 ### 2. [editcsvonline.com](https://editcsvonline.com)
 
 Edit CSV files online just like Google Sheets. No need to sign up!
-
-## Usage
-
-Include `datagridxl.js` in your web page HTML file:
-
-```
-<script src="https://code.datagridxl.com/datagridxl2.js"></script>
-```
-
-Then, run this code inside your HTML/JS:
-
-```
-<div id="grid" style="height:400px;"></div>
-<script>
-var grid = new DataGridXL("grid");
-</script>
-```
 
 ## License
 
