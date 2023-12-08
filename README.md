@@ -93,19 +93,14 @@ Edit CSV files online just like Google Sheets. No need to sign up!
 
 ## License
 
-This DataGridXL software is free under a linkware license.
+Important: To use DataGridXL in live environments, a license is required.
 
-This means you may not remove or hide in any other way link to DataGridXL
-web site - https://datagridxl.com.
+ONLY for non-live environments (internal development purposes), you can use DataGridXL without a license.
 
-If you wish to remove the link, you should purchase commercial license.
+Without a license:
 
-You may not redistribute, sublicense or sell this program without written
-permission of Vanilla Components, the creator of DataGridXL software.
-
-This software is provided without warranty.
-
-## Commercial license
+* you are required to show the DataGridXL link (  ) at all times
+* you are not entitled to receive any technical support
 
 To purchase a commercial license for the current version of this library, visit
 [DataGridXL Online Store](https://datagridxl.com/buy)
