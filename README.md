@@ -99,7 +99,7 @@ ONLY for non-live environments (internal development purposes), you can use Data
 
 Without a license:
 
-* you are required to show the DataGridXL link (  ) at all times
+* you are required to show the DataGridXL link (https://github.com/DataGridXL/DataGridXL2/blob/master/images/dgxl-logo-icon.svg) at all times
 * you are not entitled to receive any technical support
 
 To purchase a commercial license for the current version of this library, visit
