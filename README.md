@@ -103,7 +103,7 @@ Without a license:
 * you are not entitled to receive any technical support
 
 To purchase a commercial license for the current version of this library, visit
-[DataGridXL Online Store](https://datagridxl.com/buy)
+[DataGridXL Online Store](https://datagridxl.com/pricing)
 
 ## More info
 
